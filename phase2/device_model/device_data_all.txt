@@ -1,0 +1,5 @@
+pkname	cname	device	num
+com.tudou.android	土豆视频	R9	233497
+com.tudou.android	土豆视频	A31	165093
+com.tudou.android	土豆视频	X7	110446
+com.tudou.android	土豆视频	R9 Plus	97472
